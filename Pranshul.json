@@ -2,21 +2,19 @@
 	"basics": {
 		"name": "Pranshul Kharniwal",
 		"label": "Student",
-		"picture": "",
+		"picture": "https://pranshul1083.github.io/dp.jpeg",
 		"email": "2019kucp1083@iiitkota.ac.in",
 		"phone": "9571131628",
 		"website": "https://pranshul1083.github.io/",
-		"summary": "Having excellent problem solving skills and ability to perform well in a team. Passionate about coding and
-enjoy Solving Doubt of Students.
-": {
+		"summary": "Having excellent problem solving skills and ability to perform well in a team. Passionate about coding and enjoy Solving Doubt of Students.",
+		"location": {
 			"address": "Rangbari kota,Rajasthan",
 			"postalCode": "324005",
 			"city": "Kota",
 			"countryCode": "91",
 			"region": "Rajasthan"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "Pranshul Kharniwal",
 				"url": "https://github.com/pranshul1083"
@@ -45,14 +43,12 @@ enjoy Solving Doubt of Students.
 		]
 	}],
 	"publications": [
-       
-    ],
-	"skills": [
-        {
-            "level": "Master",
-            "keywords": ["Java","C","HTML5", "CSS3", "C++","Python"]
-	    }
-    ],
+
+	],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["Java", "C", "HTML5", "CSS3", "C++", "Python"]
+	}],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Sketting"]
